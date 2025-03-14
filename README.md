@@ -51,6 +51,8 @@ El objetivo de las pruebas fue garantizar el correcto funcionamiento de las prin
 - Se documentaron errores encontrados en **Jira**.
 - Se generó un informe de pruebas con los resultados obtenidos.
 
+Puedes consultar el informe de pruebas dando clic [aquí](https://docs.google.com/spreadsheets/d/1xZ1CvxFbwF-2wVRwoU40sA4NxzYimqdz/edit?usp=sharing&ouid=100155335199930450797&rtpof=true&sd=true).
+
 ## Conclusión
 Este proyecto de pruebas ayudó a identificar errores y oportunidades de mejora en la primera versión de **Urban.Lunch** para Android. Los reportes de bugs y el informe de pruebas permitirán al equipo de desarrollo mejorar la calidad y experiencia del usuario en futuras versiones.
 
