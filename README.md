@@ -4,6 +4,12 @@
 
 Este proyecto de pruebas se llevó a cabo como parte del Sprint 5 del programa de formación en QA Engineer de TripleTen para evaluar la primera versión de la aplicación móvil **Urban.Lunch** en Android. La aplicación permite a los usuarios pedir comidas de diferentes restaurantes de la ciudad y recogerlas en puntos de entrega específicos. 
 
+
+
+https://github.com/user-attachments/assets/5a1cac4e-c684-440d-b46c-52414dffa978
+
+
+
 El objetivo de las pruebas fue garantizar el correcto funcionamiento de las principales características de la aplicación y detectar posibles errores antes de su lanzamiento.
 
 ## Funcionalidades Probadas
